@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["es2021"]
+    // Specify what the v8 runtime supports.
+    // https://developers.google.com/apps-script/guides/v8-runtime?hl=ja
+  }
+}
